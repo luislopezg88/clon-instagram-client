@@ -1,0 +1,14 @@
+@import "../../../scss/index.scss";
+
+.previw-publications {
+    height: 100%;
+
+    &:hover {
+        cursor: pointer;
+        opacity: 0.9;
+    }
+    &__image {
+        width: 100%;
+        height: 100%;
+    }
+}
